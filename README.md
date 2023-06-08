@@ -1,6 +1,8 @@
 
 # Project Title
 # Landing Page Project
+![image](https://github.com/salmaayad0/Landing-page/assets/117774174/b757854f-9dd1-4534-9c96-4a827976ad86)
+
 
 this fwd udacity program
 contains an index page could be the first page for your website 
